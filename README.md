@@ -1,5 +1,7 @@
 # Mikuru_Tamagotchi_ESP32
 
+教程网址：https://www.bilibili.com/video/BV1TB4y1G7iA/?spm_id_from=333.999.0.0&vd_source=3f07d7b7aa8e5f984ad4adea421e3428
+
 ·LILYGO® T-QT开发板  
 ·TP-4056充电模块  
 ·250毫安锂电池  
